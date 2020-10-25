@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#some
+.firebaserc
+.firebase.json
+.firebase
+.firebase/
+/.firebase
+README.md/
+README.md
